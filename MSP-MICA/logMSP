@@ -1,0 +1,5 @@
+[INFO] 15:13:00:426 MSP/(6448:6448): La ruta del archivo de configuración es: configuracion.
+[TRACE] 15:13:00:507 MSP/(6448:6448): MSP inicio su ejecución. Tamaño memoria: 1048576. Tamaño swap: 1048576. Tamaño total: 2097152. Algoritmo sust páginas: FIFO.
+[TRACE] 15:13:00:523 MSP/(6448:6448): A la espera de nuevas conexiones
+[TRACE] 15:15:24:275 MSP/(6448:6449): Para el PID 1 se creó el número de segmento 0 de tamanio 9000. El tamanio que ocupa en la memoria es de: 9216.
+[TRACE] 15:15:24:276 MSP/(6448:6449): El espacio restante en la memoria es de 2087936 bytes.
